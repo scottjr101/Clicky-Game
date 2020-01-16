@@ -1,0 +1,13 @@
+.card {
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(175, 175, 175, 0.35); 
+     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.35);
+     margin: 1rem;
+}
+.card:hover {
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.65); 
+     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.65);
+     transform: scale(1.05);
+}
+.card > .card-img-top {
+    height: 18rem;
+}
