@@ -17,7 +17,7 @@ The theme of this game is from a skit called, "Old Gregg" from the show Mighty B
 
 This App is deployed on *Heroku* [click Here](https://clickygameapp2020.herokuapp.com/) to view it.
 
-![Old Greg Clicky Game](./public/assets/imgages/greg-ss.png)
+![Old Greg Clicky Game](./public/assets/images/greg-ss.png)
 
 - - -
 
