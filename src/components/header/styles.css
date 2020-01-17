@@ -1,6 +1,7 @@
 .headerCustom {
+    font-family: 'Luckiest Guy', cursive;
     background: rgba(17, 111, 139, 0.5);
     height: 6rem;
-    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
-    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    -webkit-box-shadow:5px 3px 15px 5px rgba(0, 0, 0, 0.4);
+    box-shadow:5px 3px 15px 5px rgba(0, 0, 0, 0.4);
 }

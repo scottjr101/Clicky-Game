@@ -1,7 +1,9 @@
 .aboutCustom {
+    font-family: 'Luckiest Guy', cursive;
     background: rgba(245, 245, 245, 0.5);
-    height: 13rem;
-    margin: 1.75rem 0 1.75rem 0;
-    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
-    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    height: 100%;
+    margin-bottom: 1.75rem;
+    padding: 2.5rem 0.75rem 2.5rem 0.75rem;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
 }
