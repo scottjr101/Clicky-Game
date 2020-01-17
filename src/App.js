@@ -4,12 +4,15 @@ import Row from './components/row';
 import Header from './components/header';
 import About from './components/About';
 import Cards from './components/greggCards';
+import Footer from './components/footer';
 import Gregs from './gregs.json';
 
 
 
 class App extends Component {
 state = { Gregs };
+
+
 
 
   render() {
@@ -38,6 +41,10 @@ state = { Gregs };
           />
         ))}
         </div>
+      </Row>
+      <Row>
+        <Footer>
+        </Footer>
       </Row>
       </Container>
       </>
