@@ -1,3 +1,36 @@
+# Old Greg Clicky Game
+
+**Creator**: `Scott Ladd`
+
+**Created on**: `Jan 17th 2020`
+- - -
+
+## ABOUT THE APP
+This is memory game. The user has to click each gif once. If they click an image more than once the current score resets back to zero and the gifs reshuffle. 
+Every time you play the `State` keeps track of your top score, which is displayed as your High Score. If you are successful and click every image only once 
+you win the game. Your progress throughout the game is marked with messages displayed at the top of the page, the default one being "Do you love me?" 
+The theme of this game is from a skit called, "Old Gregg" from the show Mighty Boosh.
+
+- - -
+
+## Deployed Site
+
+This App is deployed on *Heroku* [click Here](https://clickygameapp2020.herokuapp.com/) to view it.
+
+![Old Greg Clicky Game](./public/assets/imgages/greg-ss.png)
+
+- - -
+
+## TECHNOLOGIES USED
+* BootStrap
+* HTML
+* CSS
+* Javascript
+* Nodejs
+* Reactjs
+* Git
+* GitHub
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
