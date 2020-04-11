@@ -15,7 +15,7 @@ The theme of this game is from a skit called, "Old Gregg" from the show Mighty B
 
 ## Deployed Site
 
-This App is deployed on *Surge* [click Here](https://react-memory-game-sl.surge.sh/) to view it.
+This App is deployed on *Surge* [Click Here](https://react-memory-game-sl.surge.sh/) to view it.
 
 ![Old Greg Clicky Game](./public/assets/images/greg-ss.png)
 
